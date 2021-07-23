@@ -1,2 +1,7 @@
-# BuildingHighPerformanceListsAndCollectionViews
-A mirror of Apple's sample code for high performance collection views in iOS 15
+# Building High-Performance Lists and Collection Views
+
+Improve the performance of lists and collections in your app with prefetching and image preparation.
+
+## Overview
+
+- Note: This sample code project is associated with WWDC21 session [10252: Make Blazing Fast Lists and Collection Views](https://developer.apple.com/wwdc21/10252/).
